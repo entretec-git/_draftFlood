@@ -2,8 +2,6 @@
 //  floodAppDelegate.m
 //  flood_draft1
 //
-//  Created by Mick Brown 2013 on 25/05/12.
-
 
 #import "floodAppDelegate.h"
 
