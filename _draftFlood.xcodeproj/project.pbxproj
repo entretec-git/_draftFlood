@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		164C5EEF16D4C2EF00E84EF0 /* fake_File.m in Sources */ = {isa = PBXBuildFile; fileRef = 164C5EEE16D4C2EF00E84EF0 /* fake_File.m */; };
 		16792B9D16D3D156001EE01A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16792B9C16D3D156001EE01A /* UIKit.framework */; };
 		16792B9F16D3D156001EE01A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16792B9E16D3D156001EE01A /* Foundation.framework */; };
 		16792BA116D3D156001EE01A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16792BA016D3D156001EE01A /* CoreGraphics.framework */; };
@@ -36,8 +35,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		164C5EED16D4C2EF00E84EF0 /* fake_File.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fake_File.h; sourceTree = "<group>"; };
-		164C5EEE16D4C2EF00E84EF0 /* fake_File.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fake_File.m; sourceTree = "<group>"; };
 		16792B9916D3D156001EE01A /* _draftFlood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = _draftFlood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16792B9C16D3D156001EE01A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		16792B9E16D3D156001EE01A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -97,8 +94,6 @@
 		16792B9016D3D156001EE01A = {
 			isa = PBXGroup;
 			children = (
-				164C5EED16D4C2EF00E84EF0 /* fake_File.h */,
-				164C5EEE16D4C2EF00E84EF0 /* fake_File.m */,
 				16792BDC16D3D1D3001EE01A /* MainStoryboard.storyboard */,
 				16792BDF16D3D20F001EE01A /* floodAppDelegate.h */,
 				16792BE016D3D20F001EE01A /* floodAppDelegate.m */,
@@ -266,7 +261,6 @@
 				16792BE916D3D20F001EE01A /* floodFlipsideViewController.m in Sources */,
 				16792BEA16D3D20F001EE01A /* floodMainViewController.m in Sources */,
 				16792BEB16D3D20F001EE01A /* RainTableView.m in Sources */,
-				164C5EEF16D4C2EF00E84EF0 /* fake_File.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
