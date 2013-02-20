@@ -115,9 +115,9 @@
 				16792BCF16D3D1B1001EE01A /* SlopeViewController.m */,
 				16792BD016D3D1B1001EE01A /* SoilTypeViewController.h */,
 				16792BD116D3D1B1001EE01A /* SoilTypeViewController.m */,
-				16792BA216D3D156001EE01A /* _draftFlood */,
 				16792B9B16D3D156001EE01A /* Frameworks */,
 				16792B9A16D3D156001EE01A /* Products */,
+				16792BA316D3D156001EE01A /* Supporting Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -140,14 +140,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		16792BA216D3D156001EE01A /* _draftFlood */ = {
-			isa = PBXGroup;
-			children = (
-				16792BA316D3D156001EE01A /* Supporting Files */,
-			);
-			path = _draftFlood;
-			sourceTree = "<group>";
-		};
 		16792BA316D3D156001EE01A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -160,6 +152,7 @@
 				16792BB216D3D156001EE01A /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			path = _draftFlood;
 			sourceTree = "<group>";
 		};
 		16792BEE16D3D30F001EE01A /* Model */ = {
@@ -386,6 +379,7 @@
 				16792BBE16D3D156001EE01A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
