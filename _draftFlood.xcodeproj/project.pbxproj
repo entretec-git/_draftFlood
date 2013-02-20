@@ -103,10 +103,6 @@
 				16792BE416D3D20F001EE01A /* floodMainViewController.m */,
 				16792BE516D3D20F001EE01A /* RainTableView.h */,
 				16792BE616D3D20F001EE01A /* RainTableView.m */,
-				16792BBF16D3D1B1001EE01A /* CoreDataTableViewController.h */,
-				16792BC016D3D1B1001EE01A /* CoreDataTableViewController.m */,
-				16792BEF16D3D325001EE01A /* DATA */,
-				16792BEE16D3D30F001EE01A /* Model */,
 				16792BCA16D3D1B1001EE01A /* RainViewController.h */,
 				16792BCB16D3D1B1001EE01A /* RainViewController.m */,
 				16792BCC16D3D1B1001EE01A /* returnPeriodViewControllerViewController.h */,
@@ -115,6 +111,8 @@
 				16792BCF16D3D1B1001EE01A /* SlopeViewController.m */,
 				16792BD016D3D1B1001EE01A /* SoilTypeViewController.h */,
 				16792BD116D3D1B1001EE01A /* SoilTypeViewController.m */,
+				16792BEE16D3D30F001EE01A /* Model */,
+				16792BEF16D3D325001EE01A /* DATA */,
 				16792B9B16D3D156001EE01A /* Frameworks */,
 				16792B9A16D3D156001EE01A /* Products */,
 				16792BA316D3D156001EE01A /* Supporting Files */,
@@ -169,6 +167,8 @@
 		16792BEF16D3D325001EE01A /* DATA */ = {
 			isa = PBXGroup;
 			children = (
+				16792BBF16D3D1B1001EE01A /* CoreDataTableViewController.h */,
+				16792BC016D3D1B1001EE01A /* CoreDataTableViewController.m */,
 				16792BDE16D3D20F001EE01A /* flood_draft1.xcdatamodeld */,
 				16792BC816D3D1B1001EE01A /* RainData.h */,
 				16792BC916D3D1B1001EE01A /* RainData.m */,

@@ -3,7 +3,7 @@
 //  sets
 //
 //  Created by Mick Brown on 23/05/12.
-//  Copyright (c) 2012 Entretec Pty Ltd. All rights reserved.
+//  Copyright (c) 2012 Entretec Pty Ltd. All right   reserved.
 //
 
 #import "RainTableView.h"
@@ -119,15 +119,6 @@
     return cell;
 
 }
-
-
-
-
-
-
-
-
-
 
 
 
